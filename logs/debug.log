@@ -1,0 +1,285 @@
+2015-03-31T18:23:26.266Z - [31merror[39m: { [SyntaxError: Unexpected token }]
+  body: '{\n  "name": "update testing rss",\n  "url": "http://feeds.feedburner.com/News-AP",\n}',
+  status: 400 }
+2015-03-31T18:24:32.833Z - [31merror[39m: { [SyntaxError: Unexpected token }]
+  body: '{\n  "name": "update testing rss",\n  "url": "http://feeds.feedburner.com/News-AP",\n}',
+  status: 400 }
+2015-03-31T18:26:03.153Z - [31merror[39m: { [SyntaxError: Unexpected token }]
+  body: '{\n  "name": "update testing rss",\n  "url": "http://feeds.feedburner.com/News-AP",\n}',
+  status: 400 }
+2015-03-31T18:28:49.684Z - [31merror[39m: { [SyntaxError: Unexpected token }]
+  body: '{\n  "name": "update testing rss",\n  "url": "http://feeds.feedburner.com/News-AP",\n}',
+  status: 400 }
+2015-03-31T18:29:07.437Z - [31merror[39m: { [SyntaxError: Unexpected token }]
+  body: '{\n  "name": "update testing rss",\n  "url": "http://feeds.feedburner.com/News-AP",\n}',
+  status: 400 }
+2015-03-31T18:35:58.689Z - [32minfo[39m: req body Data>>>
+
+
+
+ name=update testing rss, url=http://feeds.feedburner.com/News-AP
+2015-03-31T18:35:58.693Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:37:46.177Z - [32minfo[39m: req body Data>>>
+
+
+
+ name=update testing rss, url=http://feeds.feedburner.com/News-AP
+2015-03-31T18:37:46.180Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:38:09.184Z - [32minfo[39m: req body Data>>>
+
+
+
+ name=update testing rss, url=http://feeds.feedburner.com/News-AP
+2015-03-31T18:38:09.185Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:39:44.641Z - [32minfo[39m: req body Data>>>
+
+
+
+ name=update testing rss, url=http://feeds.feedburner.com/News-AP
+2015-03-31T18:39:44.643Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:40:18.387Z - [32minfo[39m: req body Data>>>
+
+
+
+ update testing rss
+2015-03-31T18:40:18.390Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:40:45.909Z - [32minfo[39m: req body Data>>>
+
+
+
+ update testing rss
+2015-03-31T18:40:45.912Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:41:10.828Z - [32minfo[39m: req body Data>>>
+
+
+
+ update testing rss
+2015-03-31T18:41:10.831Z - [32minfo[39m: req queryparam  Data>>>
+
+
+
+ eccyt=USD
+2015-03-31T18:43:59.676Z - [32minfo[39m: File Name >[convert]
+2015-03-31T18:44:27.066Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:08:00.163Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:08:00.187Z - [31merror[39m: [ReferenceError: currency_from is not defined]
+2015-03-31T19:09:04.116Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:09:04.126Z - [31merror[39m: [Error: Protocol:https: not supported.]
+2015-03-31T19:12:43.679Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:12:43.706Z - [31merror[39m: [TypeError: Object #<ClientRequest> has no method 'then']
+2015-03-31T19:15:53.318Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:15:53.355Z - [31merror[39m: [TypeError: Converting circular structure to JSON]
+2015-03-31T19:23:56.015Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:23:56.057Z - [31merror[39m: [TypeError: Converting circular structure to JSON]
+2015-03-31T19:25:47.922Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:25:47.959Z - [31merror[39m: [TypeError: Converting circular structure to JSON]
+2015-03-31T19:26:34.159Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:26:34.192Z - [31merror[39m: [TypeError: Converting circular structure to JSON]
+2015-03-31T19:27:57.028Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:27:57.058Z - [31merror[39m: [SyntaxError: Unexpected token o]
+2015-03-31T19:59:18.218Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:59:40.930Z - [32minfo[39m: File Name >[convert]
+2015-03-31T19:59:49.485Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:03:31.903Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:20:15.866Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:21:13.080Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:22:18.341Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:23:01.737Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:23:35.948Z - [32minfo[39m: File Name >[convert]
+2015-03-31T20:32:22.729Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T20:32:22.736Z - [31merror[39m: [TypeError: Cannot call method 'toUpperCase' of undefined]
+2015-03-31T20:36:18.347Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T20:37:02.447Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T20:37:15.463Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T20:37:29.089Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T20:37:29.447Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:00:03.851Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:01:23.012Z - [31merror[39m: { [Error: invalid json] status: 400 }
+2015-03-31T21:02:03.852Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:02:32.126Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:03:25.144Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:04:13.378Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:04:39.359Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:05:24.544Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:06:26.442Z - [32minfo[39m: File Name >[convert] 3
+2015-03-31T21:07:46.522Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:07:46.528Z - [31merror[39m: [ReferenceError: req is not defined]
+2015-03-31T21:09:54.200Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:09:54.207Z - [31merror[39m: [ReferenceError: req is not defined]
+2015-03-31T21:11:08.127Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:11:08.138Z - [31merror[39m: [TypeError: Cannot call method 'then' of undefined]
+2015-03-31T21:12:19.337Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:12:19.347Z - [31merror[39m: [TypeError: Cannot call method 'then' of undefined]
+2015-03-31T21:14:04.776Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:14:04.791Z - [31merror[39m: [ReferenceError: deferred is not defined]
+2015-03-31T21:14:43.415Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:16:23.220Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:24:45.597Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:26:00.003Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:26:39.780Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:27:55.515Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:29:19.349Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:30:51.035Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:31:30.231Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:32:08.617Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:33:00.571Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:33:40.799Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:35:43.834Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:35:56.598Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:36:10.642Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:36:26.835Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:36:40.653Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:45:28.626Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:46:00.474Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:46:13.625Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:46:27.083Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:46:49.749Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:48:17.728Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:48:48.155Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:50:08.495Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:51:11.729Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:53:25.844Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:54:36.129Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:56:23.302Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:56:29.235Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:56:37.979Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:56:47.546Z - [31merror[39m: { [SyntaxError: Unexpected token ']
+  body: '[\n  {\n    "amount": \'\',\n    "cccyt": "USD"\n  },\n  {\n    "amount": 1,\n    "cccyt": "EUR"\n  },\n  {\n    "amount": 100,\n    "cccyt": "IRR"\n  }\n]',
+  status: 400 }
+2015-03-31T21:57:07.303Z - [32minfo[39m: File Name >[convert]
+2015-03-31T21:57:23.103Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:00:17.152Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:00:56.453Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:02:10.594Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:09:34.245Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:10:02.123Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:10:12.304Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:10:25.109Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:10:34.969Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:11:00.219Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:11:13.907Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:11:28.118Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:11:32.400Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:11:48.911Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:12:31.321Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:12:39.324Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:12:40.614Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:12:50.660Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:06.023Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:07.182Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:07.420Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:07.603Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:08.575Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:09.336Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:10.043Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:11.202Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:13:25.325Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:19:38.769Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:19:52.153Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:19:57.747Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:20:03.540Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:20:17.019Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:20:41.050Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:21:39.695Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:22:06.209Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:22:19.483Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:22:28.424Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:22:34.127Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:23:17.662Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:23:58.139Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:23:59.370Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:24:00.924Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:24:02.017Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:24:17.122Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:24:53.326Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:25:20.471Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:25:30.423Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:26:49.629Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:26:54.490Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:26:59.398Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:27:00.129Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:27:00.603Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:27:01.063Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:27:41.241Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:27:50.177Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:27:51.722Z - [32minfo[39m: File Name >[convert]
+2015-03-31T22:28:00.436Z - [32minfo[39m: File Name >[convert]
+2015-04-01T05:57:00.779Z - [32minfo[39m: File Name >[convert]
+2015-04-01T05:58:04.021Z - [32minfo[39m: File Name >[convert]
+2015-04-01T05:58:12.724Z - [32minfo[39m: File Name >[convert]
+2015-04-01T05:58:17.920Z - [32minfo[39m: File Name >[convert]
+2015-04-01T05:59:38.039Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:05:34.284Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:05:53.833Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:14:34.942Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:14:34.952Z - [31merror[39m: [ReferenceError: exchange is not defined]
+2015-04-01T07:15:25.206Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:26.306Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:44.175Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:44.842Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:45.538Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:46.198Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:46.852Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:16:59.512Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:17:36.385Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:17:42.029Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:20:04.627Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:20:10.740Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:24:15.022Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:24:20.563Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:24:25.885Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:24:31.224Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:31:55.818Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:32:19.336Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:32:38.780Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:32:38.785Z - [31merror[39m: [TypeError: Cannot call method 'toUpperCase' of undefined]
+2015-04-01T07:33:11.621Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:17.882Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:19.036Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:19.829Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:20.379Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:20.906Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:38.992Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:33:57.214Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:34:29.579Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:34:31.392Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:35:21.966Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:35:37.441Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:36:29.671Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:36:39.475Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:36:47.841Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:38:45.930Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:41:33.568Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:41:38.084Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:41:43.102Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:41:51.694Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:42:08.394Z - [31merror[39m: { [SyntaxError: Unexpected token {]
+  body: '[\n  {\n    "amount": "1",\n    "cccyt":"njh"\n  },\n  {\n    "amount": 1,\n    "cccyt": "EUR"\n  }\n  {\n    "amount": 100,\n    "cccyt": "INR"\n  }\n]',
+  status: 400 }
+2015-04-01T07:42:13.097Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:42:20.952Z - [32minfo[39m: File Name >[convert]
+2015-04-01T07:55:38.889Z - [32minfo[39m: File Name >[convert]

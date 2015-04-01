@@ -1,0 +1,20 @@
+{
+  "name": "Node-Rest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-resource": "1.0.0",
+    "node-rest-client": "0.7.5",
+    "winston": "~0.7.2",
+    "path": "*",
+    "cors": "*",
+    "remedial":"*",
+    "winston":"*",
+    "underscore": "~1.7.0",
+    "q": "~1.0.0"
+  }
+}
