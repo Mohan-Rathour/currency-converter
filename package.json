@@ -1,12 +1,12 @@
 {
-  "name": "Node-Rest",
+  "name": "Curreny-Converter",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "*",
+    "express": "~3.1.2",
     "express-resource": "1.0.0",
     "node-rest-client": "0.7.5",
     "winston": "~0.7.2",
